@@ -7,7 +7,7 @@ Hey there! I'm Utkarsh Sharma, a dedicated Full Stack Developer and Data Scienti
 ## 🚀 Coding Playground
 I specialize in:
 - **Languages & Tools**: Python, Java, JavaScript, HTML, CSS
-- **Frameworks**: MERN stack (MongoDB, Express.js, React.js, Node.js), Flask, PHP
+- **Frameworks**: PHP, MERN stack (MongoDB, Express.js, React.js, Node.js), Flask , Wordpress
 - **Data Science & Analytics**: Machine Learning (scikit-learn, TensorFlow, Keras), Deep Learning, Data Visualization (Tableau, Matplotlib, Seaborn), SQL (MySQL, PostgreSQL)
 
 My repositories showcase a mix of personal projects, innovative solutions, and experiments pushing the boundaries of both web development and data science.
