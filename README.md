@@ -28,7 +28,7 @@ My GitHub isn't just a collection of code; it's a testament to my growth and lea
 - **Speech Emotion Recognition for Customer Service**: Enhanced customer service by developing a system to analyze and categorize customer emotions.
 - **Ocean Plastic Pollution Detection Model**: Leveraged machine learning and satellite imagery to identify and target ocean plastic waste.
 - **E-commerce Recommendation System**: Increased user engagement and sales with a personalized recommendation system.
-
+- **Job Board Website**: Developed a comprehensive job board platform that connects job seekers with potential employers, featuring advanced search filters, resume uploads, and job alerts to streamline the hiring process.
 ---
 
 ## 🌟 Let's Connect!
