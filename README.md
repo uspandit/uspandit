@@ -39,7 +39,7 @@ Got an exciting project or idea? Want to collaborate on an open-source initiativ
 **Contact Information:**
 - **LinkedIn**: [LinkedIn Profile](#)
 - **Email**: utkarsh.sharma.22032004@gmail.com
-- **Phone**: +91 9719350254
+- **Phone**: +91 9389496037
 
 Explore, connect, and let's make the open-source community even more vibrant together!
 
