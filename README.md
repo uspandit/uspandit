@@ -3,7 +3,7 @@
 Hey there! I'm Utkarsh Sharma, a dedicated Full Stack Developer and Data Scientist from Mathura, Uttar Pradesh, India. My GitHub repository is a vibrant space where I transform my passion for coding and data analytics into innovative projects and collaborative ventures. Here's a glimpse into my journey and the work you'll find here.
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 ## 🚀 Coding Playground
 I specialize in:
 - **Languages & Tools**: Python, Java, JavaScript, HTML, CSS
